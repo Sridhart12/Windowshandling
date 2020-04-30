@@ -1,2 +1,2 @@
 # Windowshandling
-This Selenium topic should cover Windows handling
+This Selenium topic have Windows handling topic
